@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="52" viewBox="0 0 210 52" role="img" aria-labelledby="title">
+  <title id="title">Открыть сайт</title>
+  <rect y="4" width="210" height="48" rx="24" fill="#f0558c"/>
+  <rect width="210" height="48" rx="24" fill="#ff7fab"/>
+  <g transform="translate(27 24)">
+    <g fill="#fff8ea"><ellipse cy="-7" rx="4" ry="7"/><ellipse cy="7" rx="4" ry="7"/><ellipse cx="-7" rx="7" ry="4"/><ellipse cx="7" rx="7" ry="4"/></g>
+    <circle r="5" fill="#ffd95a"/>
+  </g>
+  <text x="49" y="30" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#5a3b2e">Открыть сайт</text>
+  <path d="M183 18h8v8m0-8-10 10" fill="none" stroke="#5a3b2e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
